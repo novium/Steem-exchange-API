@@ -1,0 +1,17 @@
+{
+  "name": "steemapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "novium",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "express": "^4.14.0",
+    "money": "^0.2.0",
+    "node-rest-client": "^2.0.1"
+  }
+}
